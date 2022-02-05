@@ -8,4 +8,4 @@ This study exhibit ML performance for predicting oil recovery during Surfactant 
 -
 
 # Preview
-![example](/Screenshoot/Preview Project.gif)
+![example](/Screenshoot/Preview_Project.gif)
